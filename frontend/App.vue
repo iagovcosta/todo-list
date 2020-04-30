@@ -6,7 +6,7 @@
                     div.columns.is-two-thirds
                         div#form
                             h1.title.is-size-2-desktop.is-size-3.mobile.has-text-centered
-                                span.has-text-primary Todo List
+                                span.has-text-primary My To-do List
                             todo-component
 </template>
 
